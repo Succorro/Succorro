@@ -7,7 +7,7 @@ I'm a passionate software developer with a knack for coding. Here's a little abo
 ## 🌱 Currently learning:
 I believe in continuous learning. Currently, I'm diving into [Python]. Always open to suggestions and learning opportunities!
 
-## 👨‍💻 Tech Stack <img align="center" alt="medium" src="" />
+## 👨‍💻 Tech Stack 
 <img align="center" alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Succorro&theme=tokyonight" />
 
 ### Front-End: <img align="center" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align="center" alt="medium" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img align="center" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img align="center" alt="medium" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img align="center" alt="medium" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img align="center" alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
@@ -23,9 +23,10 @@ I believe in continuous learning. Currently, I'm diving into [Python]. Always op
 I love collaborating with fellow developers. If you're working on something exciting or need help with a project, feel free to reach out. Together, we can create something amazing!
 
 ## 📫 How to reach me
-You can reach me via [email, LinkedIn]. Don't hesitate to drop a message; I'm always open to connecting with fellow developers.
-
-## ⚡ Fun fact
+[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/soysteven/) 
+<a href="mailto:stevengbmv@gmail.com?subject=Hello%20Steven,%20From%20Github"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+---
+Don't hesitate to drop a message, I'm always open to connecting with fellow developers.
 
 Thanks for stopping by! Happy coding! 🚀
 
