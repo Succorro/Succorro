@@ -5,7 +5,7 @@ Steven Gutierrez
 I'm a passionate software developer with a knack for coding. Here's a little about me:
 
 ## 🌱 Currently learning:
-I believe in continuous learning. Currently, I'm diving into [Python]. Always open to suggestions and learning opportunities!
+I believe in continuous learning. Currently, I'm diving into Data Structures and Algorithms. Always open to suggestions and learning opportunities!
 
 ## 👨‍💻 Tech Stack 
 <img align="center" alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Succorro&theme=tokyonight" />
